@@ -1,2 +1,2 @@
-# php_securelogin
-PHP secure login and registration script with MySql
+# PHP Secure Login
+PHP secure login and registration script with MySql database
